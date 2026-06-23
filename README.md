@@ -8,4 +8,4 @@ Programación
 ## Programa Utilizado
 PseInt y Python
 ## Descripción
-Trabajo final integrador, en el cual se utilizaron el programa PseInt y Python.
+Trabajo final integrador, en el cual se utilizaron los programas PseInt y Python.
